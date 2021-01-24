@@ -5,7 +5,9 @@
 ## documents
 #### Front-end
 - [The detailed implementation of Promise](https://blog.csdn.net/qq_22844483/article/details/73655738)
-- []
+- [30 css选择符](https://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/)
+
+
 
 #### Back-end
 
