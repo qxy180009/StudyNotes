@@ -7,10 +7,12 @@
 - [The detailed implementation of Promise](https://blog.csdn.net/qq_22844483/article/details/73655738)
 - [30 css选择符](https://yanhaijing.com/css/2014/01/04/the-30-css-selectors-you-must-memorize/)
 - [JS ES6 Set & Map](https://juejin.cn/post/6901098126539489288)
-
-
+- [JS -> forEach/map/filter details](https://juejin.cn/post/6844903807176933384)
+- [JS Websocket](https://juejin.cn/post/6844903519649005576)
+  [JS 流程 & 资料](https://juejin.cn/post/6844903828823736334)
+- [Great JavaScript Tutorial](https://javascript.info/)
 #### Back-end
-
+- [Java Concurrency](https://github.com/CL0610/Java-concurrency)
 ## Open Courses
 - [Relational Databases CMU](https://www.bilibili.com/video/BV1LA411H7Gj)
 
