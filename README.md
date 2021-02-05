@@ -22,3 +22,4 @@
 - [Go Web Programming](https://www.bilibili.com/video/BV1Xv411k7Xn)
 - [SpringBoot 2.x 源码详解](https://www.bilibili.com/video/BV19K4y1L7MT?from=search&seid=4563007813165529859)
 - [redis 入门](https://www.bilibili.com/video/BV1S54y1R7SB)
+- [Fullstack project (React, Node, Redis, Deploy)](https://www.youtube.com/watch?v=lauywdXKEXI)
