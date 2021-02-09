@@ -23,3 +23,5 @@
 - [SpringBoot 2.x 源码详解](https://www.bilibili.com/video/BV19K4y1L7MT?from=search&seid=4563007813165529859)
 - [redis 入门](https://www.bilibili.com/video/BV1S54y1R7SB)
 - [Fullstack project (React, Node, Redis, Deploy)](https://www.youtube.com/watch?v=lauywdXKEXI)
+- [Spring Boot JPA Tutorial](https://www.youtube.com/watch?v=8SGI_XS5OPw)
+- [Fullstack project (React, Node, MongoDB, Deploy)](https://www.youtube.com/watch?v=aibtHnbeuio)
