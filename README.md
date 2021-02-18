@@ -11,6 +11,7 @@
 - [JS Websocket](https://juejin.cn/post/6844903519649005576)
   [JS 流程 & 资料](https://juejin.cn/post/6844903828823736334)
 - [Great JavaScript Tutorial](https://javascript.info/)
+- [CSS flex layout - 阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html);
 #### Back-end
 - [Java Concurrency](https://github.com/CL0610/Java-concurrency)
 ## Open Courses
