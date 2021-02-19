@@ -26,3 +26,4 @@
 - [Fullstack project (React, Node, Redis, Deploy)](https://www.youtube.com/watch?v=lauywdXKEXI)
 - [Spring Boot JPA Tutorial](https://www.youtube.com/watch?v=8SGI_XS5OPw)
 - [Fullstack project (React, Node, MongoDB, Deploy)](https://www.youtube.com/watch?v=aibtHnbeuio)
+- [Fullstack project - Clone Amazon (MERN, firebase, stripe)](https://www.youtube.com/watch?v=RDV3Z1KCBvo);
